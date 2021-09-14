@@ -1,0 +1,21 @@
+
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(ò€Ä
+Tsquid:UselessImportCheck"0Remove this unused import 'sun.nio.cs.US_ASCII'.(ò€Ä
+:squid:S1148E"#Use a logger to log this exception.(Óùóÿ
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ı•Îÿÿÿÿÿ
+T
+squid:S106)"9Replace this use of System.out or System.err by a logger.(¢©ĞÌÿÿÿÿÿ
+O
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ø»ÇŒ
+O
+squid:S106+"9Replace this use of System.out or System.err by a logger.(÷ı€Ô
+O
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ëå˜
+O
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ÇåÊ³
+N
+squid:S106/"9Replace this use of System.out or System.err by a logger.(”€™
+O
+squid:S106;"9Replace this use of System.out or System.err by a logger.(­Ø½Ç
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–¤éüÿÿÿÿ
+gsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(ì«Éûÿÿÿÿ
