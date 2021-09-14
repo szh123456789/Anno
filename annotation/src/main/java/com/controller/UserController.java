@@ -18,7 +18,7 @@ public class UserController {
     }
 
 
-    @Anno("============================")
+    @Anno("============================  ")
     @RequestMapping("user/{id}")
     public User findUser(@PathVariable("id") Integer id){
         return userService.findUserById(id);
