@@ -15,3 +15,7 @@ U
 %src/main/java/com/aspect/AnnoAsp.java,0/c/0c16cb718ccd90f2521058485ba2e667da38f1b5
 L
 src/main/java/com/Start.java,7/a/7a7deb6f1f1656da3bb76ee0a7be2c48e78010c0
+\
+,.idea/inspectionProfiles/Project_Default.xml,4/9/496a238a6afa168dbaf6efd37bb459331589579c
+X
+(src/main/resource/application.properties,1/7/17d4f1d0f8a4af55f8296830826fe7436ad30ab1
